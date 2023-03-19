@@ -5,7 +5,7 @@ A collection of GUI (mostly) batch processing tools to optimize and simplify com
 
 
 
-Batch_GitPuller.py - a non-GUI script that goes through each subfolder of the folder in which it is run, and preforms a git pull. Just to be sure it doesn't accidentaly break anything else, it cleverly checks to make sure it doesn't go more than one folder deep as it goes. Can be easily run with the command "python Batch_Folder_GitPuller.py".
+Batch_GitPuller.py - a non-GUI script that goes through each subfolder of the folder in which it is run, and preforms a git pull. Just to be sure it doesn't accidentaly break anything else, it cleverly checks to make sure it doesn't go more than one folder deep as it goes. Can be easily run with the command ```python Batch_Folder_GitPuller.py```
 
 
 
