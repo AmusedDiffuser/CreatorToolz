@@ -25,4 +25,6 @@ Batch_Video_EndTrimmer_GUI_v1.py - GUI tool for batch processing a folder full o
 
 
 
+ListFileByTypeV9_GUI.py - GUI tool that creates a list of all files in a folder with a specified filetype and saves it to a .txt file. optional filter input will only include files containing specified strings. Optional checkboxes to: include file extension in output, scan subfolders, and include full path in output.
+
 I'll add a requirements.txt file soon with an eplenation of how to use it...
